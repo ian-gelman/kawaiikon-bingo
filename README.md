@@ -4,7 +4,7 @@ Does what it says on the tin.
 ## Setup
 ### Create virtual environment
 ```
-python3 -m pip env
+python3 -m venv env
 ```
 ### Install required modules
 ```
